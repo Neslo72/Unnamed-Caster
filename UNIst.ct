@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="42">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>33</ID>
+      <Description>"Stage Pointer"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>UNIst.exe+2ED0B0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>34</ID>
+      <Description>"Song pointer"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>UNIst.exe+2ED110</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>38</ID>
+      <Description>"Player 2"</Description>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>36</ID>
+          <Description>"P2 character select"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>UNIst.exe+44B39C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>6</ID>
+          <Description>"P2 Health pointer"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>UNIst.exe+7D53E4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>7</ID>
+          <Description>"P2 meter pointer"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>UNIst.exe+7D5404</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>39</ID>
+      <Description>"Player 1"</Description>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>31</ID>
+          <Description>"P1 character select"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>UNIst.exe+44B360</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>77</ID>
+          <Description>"P1 X Position"</Description>
+          <ShowAsSigned>1</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>UNIst.exe+7D49DC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>104</ID>
+          <Description>"P1 Y Position"</Description>
+          <ShowAsSigned>1</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>UNIst.exe+7D49E0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>4</ID>
+          <Description>"P1 Health"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>UNIst.exe+7D4A04</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>105</ID>
+          <Description>"P1 Max Health (does not change anything...)"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>UNIst.exe+7D4A08</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>5</ID>
+          <Description>"P1 Meter"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>UNIst.exe+7D4A24</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>72</ID>
+          <Description>"P1 X-Velocity"</Description>
+          <ShowAsSigned>1</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>UNIst.exe+7D4A90</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>106</ID>
+          <Description>"P1 X Accel"</Description>
+          <ShowAsSigned>1</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>UNIst.exe+7D4A94</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>73</ID>
+          <Description>"P1 Y-velocity"</Description>
+          <ShowAsSigned>1</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>UNIst.exe+7D4A98</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>107</ID>
+          <Description>"P1 Y Accel"</Description>
+          <ShowAsSigned>1</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>UNIst.exe+7D4A9C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>102</ID>
+          <Description>"P1 Slide velocity"</Description>
+          <ShowAsSigned>1</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>UNIst.exe+7D4AFC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>103</ID>
+          <Description>"P1 Slide acceleration"</Description>
+          <ShowAsSigned>1</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>UNIst.exe+7D4B00</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>100</ID>
+          <Description>"P1 Dash speed"</Description>
+          <ShowAsSigned>1</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>UNIst.exe+7D4B3C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>109</ID>
+          <Description>"P1 Active Flag"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>UNIst.exe+7D4B5B</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>108</ID>
+          <Description>"P1 Counter Flag"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>UNIst.exe+7D4B60</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>110</ID>
+          <Description>"P1 Invuln Frames (???)"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>UNIst.exe+7D4B68</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>112</ID>
+          <Description>"P1 Flipped"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>UNIst.exe+7D4EA4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>113</ID>
+          <Description>"P1 Move name"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>String</VariableType>
+          <Length>11</Length>
+          <Unicode>0</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>UNIst.exe+7D4EFC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>55</ID>
+          <Description>"P1 input"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>00CF49B4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>32</ID>
+          <Description>"P1 Position (Camera ?)"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>UNIst.exe+4AAEC8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>74</ID>
+          <Description>"P1 Active Frames?"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>UNIst.exe+7D4EB8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>91</ID>
+          <Description>"P1 Air frames?"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>UNIst.exe+7D4DE8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>114</ID>
+          <Description>"P1 move name (anim loop?)"</Description>
+          <VariableType>String</VariableType>
+          <Length>11</Length>
+          <Unicode>0</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>UNIst.exe+7D5300</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>98</ID>
+      <Description>"P2 Y pos ?"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>Byte</VariableType>
+      <Address>0087549C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>66</ID>
+      <Description>"P2 GRD Blocks"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>UNIst.exe+4AAFE8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>99</ID>
+      <Description>"P1 sprite name?"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>Byte</VariableType>
+      <Address>016E4EFC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>101</ID>
+      <Description>"P1 Invuln Frames? (WRONG)"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>Byte</VariableType>
+      <Address>UNIst.exe+7D4B68</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>64</ID>
+      <Description>"P1 GRD Blocks"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>UNIst.exe+4AAEA8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>26</ID>
+      <Description>"Menu Mode"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>UNIst.exe+2EA1C0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>69</ID>
+      <Description>"L/R Flag"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>UNIst.exe+4AB190</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>68</ID>
+      <Description>"L/R Flag"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>UNIst.exe+4AB18C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>71</ID>
+      <Description>"L / R flag"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>UNIst.exe+4AB1A0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>70</ID>
+      <Description>"L / R flag"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>UNIst.exe+4AB19C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>63</ID>
+      <Description>"GRD rate ?"</Description>
+      <ShowAsSigned>1</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>UNIst.exe+4AAEAC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>93</ID>
+      <Description>"Character select mode"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>UNIst.exe+4AB1B8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>97</ID>
+      <Description>"? what"</Description>
+      <ShowAsSigned>1</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>0087548C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>111</ID>
+      <Description>"P1 Flipped?"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>Byte</VariableType>
+      <Address>UNIst.exe+7D4DFC</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <CheatCodes>
+    <CodeEntry>
+      <Description>Versus mode change</Description>
+      <AddressString>UNIst.exe+ED48C</AddressString>
+      <Before>
+        <Byte>00</Byte>
+        <Byte>01</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+      </Before>
+      <Actual>
+        <Byte>C7</Byte>
+        <Byte>05</Byte>
+        <Byte>C0</Byte>
+        <Byte>A1</Byte>
+        <Byte>DA</Byte>
+        <Byte>00</Byte>
+        <Byte>16</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+      </Actual>
+      <After>
+        <Byte>5F</Byte>
+        <Byte>B8</Byte>
+        <Byte>01</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+      </After>
+    </CodeEntry>
+  </CheatCodes>
+  <UserdefinedSymbols/>
+  <Comments>Menu mode --
+  move from 22 (char select)
+  to 15 (intro versus)
+battle state is saved whenever it is loaded
+(can load mid round)
+</Comments>
+</CheatTable>
